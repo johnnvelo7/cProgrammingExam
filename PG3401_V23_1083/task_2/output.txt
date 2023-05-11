@@ -1,0 +1,182 @@
+-------------------------------------------------
+Number: 			55
+Index: 			1
+Number (binary): 00000000000000000000000000110111
+-------------------------------------------------
+Is Fibonacci: 	True
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			874981
+Index: 			2
+Number (binary): 00000000000011010101100111100101
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			553
+Index: 			3
+Number (binary): 00000000000000000000001000101001
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			17
+Index: 			4
+Number (binary): 00000000000000000000000000010001
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		True
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			42
+Index: 			5
+Number (binary): 00000000000000000000000000101010
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	True
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	False
+is Odd: 			False
+
+-------------------------------------------------
+Number: 			894
+Index: 			6
+Number (binary): 00000000000000000000001101111110
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	True
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	False
+is Odd: 			False
+
+-------------------------------------------------
+Number: 			98732
+Index: 			7
+Number (binary): 00000000000000011000000110101100
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			False
+
+-------------------------------------------------
+Number: 			555
+Index: 			8
+Number (binary): 00000000000000000000001000101011
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			99273
+Index: 			9
+Number (binary): 00000000000000011000001111001001
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			110283
+Index: 			10
+Number (binary): 00000000000000011010111011001011
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			1
+Index: 			11
+Number (binary): 00000000000000000000000000000001
+-------------------------------------------------
+Is Fibonacci: 	True
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	True
+is Cube: 		True
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			True
+
+-------------------------------------------------
+Number: 			16
+Index: 			12
+Number (binary): 00000000000000000000000000010000
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	True
+is Cube: 		False
+is Perfect: 	False
+is Deficient: 	True
+is Odd: 			False
+
+-------------------------------------------------
+Number: 			6
+Index: 			13
+Number (binary): 00000000000000000000000000000110
+-------------------------------------------------
+Is Fibonacci: 	False
+Is Prime: 		False
+Is Abundant: 	False
+Is Squared: 	False
+is Cube: 		False
+is Perfect: 	True
+is Deficient: 	False
+is Odd: 			False
+
